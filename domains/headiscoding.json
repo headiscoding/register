@@ -1,1 +1,11 @@
-
+{
+  "owner": {
+    "username": "headiscoding",
+    "email": "mohammedbalsara@gmail.com"
+  },
+}
+{
+  "record": {
+    "CNAME": "https://portfolio.headiscoding.repl.co/"
+  }
+}
